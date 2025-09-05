@@ -1,0 +1,139 @@
+body{
+    background-color: #e5eef5;
+    width: 1140px;
+    font-family: 'Karla', sans-serif;
+  }
+
+  .principal{
+
+    width: 600px;
+    height: 450px;
+    box-shadow: 8px 8px 5px #c1d3e5;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    border-radius: 8px;
+
+  }
+
+  .arribaprincipal{
+
+    width: 100%;
+    height: 50%;
+    background-color: white;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    padding: 30px;
+    padding-left: 40px;
+    box-sizing: border-box;
+
+  }
+
+  .abajoprincipal{
+    
+    width: 100%;
+    height: 50%;
+    display: flex;
+    box-sizing: border-box;
+
+  }
+
+  .derechaabajo{
+
+    background-color: #3fb1ac;
+    width: 50%;
+    height: 100%;
+    border-bottom-left-radius: 8px;
+    padding: 10px;
+    padding-left: 40px;
+    box-sizing: border-box;
+
+  }
+
+  .izquierdaabajo{
+
+    background-color: #64bab7;
+    width: 50%;
+    height: 100%;
+    border-bottom-right-radius: 8px;
+    padding: 10px;
+    padding-left: 40px;
+    box-sizing: border-box;
+     
+  }
+
+  h1{
+    margin-bottom: 30px;
+    font-size: 23px;
+    font-weight: 700;
+  }
+
+  h2{
+    font-size: 17px;
+    font-weight: 400;
+  }
+
+  .h2_abajo{
+    
+    color: white;
+    font-weight: 700;
+  }
+
+  p{
+
+    font-size: 16px;
+    font-weight: 100;
+  }
+
+
+  .p_principal{
+
+    line-height: 25px;
+    color: #bbbdbf;
+  }
+
+  ul{
+
+    list-style-type: none; 
+    padding-left: 0; 
+    color:white;
+    font-size: 13px;
+    font-weight:normal;
+    line-height: 20px;
+
+  }
+
+  .number{
+
+    font-size: 30px;
+    display: inline;
+    font-weight: 700;
+    color: white;
+
+  }
+
+  .p_segundo{
+    color: white;
+    font-size: 13px;
+  }
+
+  .boton{
+    margin-top: 30px;
+    background-color: #bedf55;
+    width: 220px;
+    height: 50px;
+    box-shadow: 8px 8px 5px #3caca7;
+    border-radius: 8px;
+  
+  }
+
+  .Signup{
+
+    text-align: center; 
+    line-height: 50px;
+    color: white;
+    font-weight: 400;
+    font-size: 15px;
+  }
